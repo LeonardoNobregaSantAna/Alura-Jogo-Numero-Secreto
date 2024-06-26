@@ -1,6 +1,6 @@
 Project name: Jogo do Numero Secreto (Secret Number Game)
 
-This is project is the result of the studies in Logic in programming.
+This project is the result of the studies in Logic in programming.
 
 The main objective is to make a game where the player has to guess a number in an specific range (in this case, from 1 to 10).
 We used conditional to perform checks in the guesses of the player and returning a response in case it's a right or wrong guess.
